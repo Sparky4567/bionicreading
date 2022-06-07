@@ -70,8 +70,4 @@ class BionicReader {
   }
 }
 
-window.addEventListener("load", () => {
-  bion = new BionicReader();
-  bion.makeBionicpara();
-  bion.makeBionicdivs();
-});
+
